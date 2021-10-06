@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:EquiposNBA"
         mc:Ignorable="d"
         Title="Equipos NBA"
-        Height="350"
         Width="800">
     <Grid>
         <StackPanel Margin="20">
@@ -30,15 +29,15 @@
                     <WrapPanel Orientation="Horizontal"
                                HorizontalAlignment="Center">
                         <Image Source="assets/14_lakers.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/23_lakers.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/3_lakers.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/9_lakers.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/39_lakers.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                     </WrapPanel>
                 </StackPanel>
             </Border>
@@ -64,15 +63,15 @@
                     <WrapPanel Orientation="Horizontal"
                                HorizontalAlignment="Center">
                         <Image Source="assets/13_heat.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/14_heat.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/22_heat.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/7_heat.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                         <Image Source="assets/99_heat.png"
-                               Width="100"></Image>
+                               Width="130"></Image>
                     </WrapPanel>
                 </StackPanel>
             </Border>
